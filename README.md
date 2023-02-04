@@ -35,3 +35,13 @@ etcd \
 --logger=capnslog
 ```
 
+```shell
+git add .
+```
+```shell
+git commit -m ""
+```
+```shell
+git push origin main
+```
+
